@@ -34,3 +34,4 @@
 ## ライセンス
 
 [GNU Affero General Public License v3.0 (AGPL-3.0)](LICENSE)（ベースエンジン：[江山時序 Jiangshan Historical Atlas](https://github.com/DeanChensj/jiangshan-map)）
+
